@@ -6,10 +6,7 @@
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ### Estatisticas sobre meus Repositórios ###
-<div>
-  <a href="https://github.com/Al3xandreG0mes">
-  
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/index/?username=Al3xandreG0mes&layout=compact&langs_count=7&theme=dark"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3xandreG0mes&layout=compact&langs_count=7&theme=dark"/>
-  
-</div>
+
+[![Alexandre Gomes GitHub stats](https://github-readme-stats.vercel.app/api/index/?username=Al3xandreG0mes&layout=compact&langs_count=7&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al3xandreG0mes&layout=compact&langs_count=7&theme=dark)]
+
