@@ -7,6 +7,6 @@
 
 ### Estatisticas sobre meus Repositórios ###
 
-[![Alexandre Gomes GitHub stats](https://github-readme-stats.vercel.app/api/index/?username=Al3xandreG0mes&layout=compact&&theme=dark)]
+[![Alexandre Gomes GitHub stats](https://github-readme-stats.vercel.app/api/index/?username=Al3xandreG0mes&theme=dark)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al3xandreG0mes&layout=compact&layout=compact&theme=dark)]
 
