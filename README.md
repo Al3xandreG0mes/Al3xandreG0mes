@@ -5,8 +5,5 @@
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-### Estatisticas sobre meus Repositórios ###
 
-[![Alexandre Gomes GitHub stats](https://github-readme-stats.vercel.app/api/index/?username=Al3xandreG0mes&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al3xandreG0mes&layout=compact&layout=compact&theme=dark)]
 
