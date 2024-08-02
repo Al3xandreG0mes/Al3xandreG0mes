@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <h2 style="margin: 0;">Seja Bem Vindo ao meu Perfil!!!</h2>
   <div>
     <img src="https://badges.pufler.dev/visits/Al3xandreG0mes/Al3xandreG0mes" alt="Visits Badge"/>
