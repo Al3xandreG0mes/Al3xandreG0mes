@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex-grow: 1;">
     <h2>Seja Bem Vindo ao meu Perfil!!!</h2>
   </div>
