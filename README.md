@@ -1,14 +1,14 @@
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <h2>Seja Bem Vindo ao meu Perfil!!!</h2>
-  <div>
-    <img src="https://badges.pufler.dev/visits/Al3xandreG0mes/Al3xandreG0mes" alt="Visits Badge"/>
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%>
+    <img src="https://badges.pufler.dev/visits/Al3xandreG0mes/Al3xandreG0mes" alt="Visits Badge""/>
     <img src="https://badges.pufler.dev/repos/Al3xandreG0mes" alt="Repos Badge"/>
   </div>
 </div>
+<img src="https://holopin.me/al3xandreg0mes" alt="Holopin Badge"/>
 
 <hr>
 
-<img src="https://holopin.me/al3xandreg0mes" alt="Holopin Badge"/>
 
 
 ### Skills Consolidadas:
