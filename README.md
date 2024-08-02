@@ -1,5 +1,5 @@
 ## Seja Bem Vindo ao meu Perfil!!! ![Visits Badge](https://badges.pufler.dev/visits/Al3xandreG0mes/Al3xandreG0mes) ![Repos Badge](https://badges.pufler.dev/repos/Al3xandreG0mes)
-![](https://holopin.me/al3xandreg0mes)
+![](https://holopin.me/al3xandreg0mes)<hr>
 
 ### Skills Consolidadas:
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
