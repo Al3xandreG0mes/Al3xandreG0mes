@@ -1,5 +1,5 @@
 ## Seja Bem Vindo ao meu Perfil!!!
-[![An image of @al3xandreg0mes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/al3xandreg0mes)](https://holopin.io/@al3xandreg0mes)
+[![An image of @al3xandreg0mes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/al3xandreg0mes)]
 
 ### Skills Consolidadas:
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
