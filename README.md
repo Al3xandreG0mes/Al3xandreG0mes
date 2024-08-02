@@ -1,13 +1,10 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex-grow: 1;">
-    <h2 style="margin: 0;">Seja Bem Vindo ao meu Perfil!!!</h2>
-  </div>
-  <div style="display: flex; gap: 5px;">
-    <img src="https://badges.pufler.dev/visits/Al3xandreG0mes/Al3xandreG0mes" alt="Visits Badge"/>
-    <img src="https://badges.pufler.dev/repos/Al3xandreG0mes" alt="Repos Badge"/>
-  </div>
-</div>
+| <h2>Seja Bem Vindo ao meu Perfil!!!</h2> | ![Visits Badge](https://badges.pufler.dev/visits/Al3xandreG0mes/Al3xandreG0mes) ![Repos Badge](https://badges.pufler.dev/repos/Al3xandreG0mes) |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+
+<hr>
+
 <img src="https://holopin.me/al3xandreg0mes" alt="Holopin Badge"/>
+
 <hr>
 
 
