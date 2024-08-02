@@ -1,4 +1,4 @@
-## Seja Bem Vindo ao meu Perfil!!! [![Visits Badge](https://badges.pufler.dev/visits/Al3xandreG0mes/README.md)](https://badges.pufler.dev)
+## Seja Bem Vindo ao meu Perfil!!! [![Visits Badge](https://badges.pufler.dev/visits/Al3xandreG0mes)](https://badges.pufler.dev)
 ![](https://holopin.me/al3xandreg0mes)
 
 ### Skills Consolidadas:
