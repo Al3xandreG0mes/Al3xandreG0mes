@@ -1,16 +1,15 @@
-<table width="100%">
-  <tr>
-    <td align="left"><h2>Seja Bem Vindo ao meu Perfil!!!</h2></td>
-    <td align="right">
-      <img src="https://badges.pufler.dev/visits/Al3xandreG0mes/Al3xandreG0mes" alt="Visits Badge"/>
-      <img src="https://badges.pufler.dev/repos/Al3xandreG0mes" alt="Repos Badge"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <h2>Seja Bem Vindo ao meu Perfil!!!</h2>
+  <div>
+    <img src="https://badges.pufler.dev/visits/Al3xandreG0mes/Al3xandreG0mes" alt="Visits Badge"/>
+    <img src="https://badges.pufler.dev/repos/Al3xandreG0mes" alt="Repos Badge"/>
+  </div>
+</div>
 
 <hr>
 
 <img src="https://holopin.me/al3xandreg0mes" alt="Holopin Badge"/>
+
 
 ### Skills Consolidadas:
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
