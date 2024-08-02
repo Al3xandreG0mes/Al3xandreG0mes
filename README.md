@@ -1,5 +1,4 @@
-| <h2>Seja Bem Vindo ao meu Perfil!!!</h2> | ![Visits Badge](https://badges.pufler.dev/visits/Al3xandreG0mes/Al3xandreG0mes) ![Repos Badge](https://badges.pufler.dev/repos/Al3xandreG0mes) |
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+ <h3>Seja Bem Vindo ao meu Perfil!!!</h3>  ![Visits Badge](https://badges.pufler.dev/visits/Al3xandreG0mes/Al3xandreG0mes) ![Repos Badge](https://badges.pufler.dev/repos/Al3xandreG0mes) 
 
 <hr>
 
