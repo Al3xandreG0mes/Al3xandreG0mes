@@ -1,7 +1,9 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: start; align-items: center;">
   <h2 style="margin: 0;">Seja Bem Vindo ao meu Perfil!!!</h2>
-    <img src="https://badges.pufler.dev/visits/Al3xandreG0mes/Al3xandreG0mes" alt="Visits Badge"/>
-    <img src="https://badges.pufler.dev/repos/Al3xandreG0mes" alt="Repos Badge"/>
+    <div style="display:flex; justify-content: end;">
+      <img src="https://badges.pufler.dev/visits/Al3xandreG0mes/Al3xandreG0mes" alt="Visits Badge"/>
+      <img src="https://badges.pufler.dev/repos/Al3xandreG0mes" alt="Repos Badge"/>
+    </div>
 </div>
 
 <hr>
